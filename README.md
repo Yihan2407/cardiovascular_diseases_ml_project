@@ -1,1 +1,1 @@
-# cardiovascular_diseases_ml_project
+# cardiovascular-diseases-analytics
